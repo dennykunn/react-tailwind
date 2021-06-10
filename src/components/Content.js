@@ -6,7 +6,7 @@ const Content = () => {
     return (
         <>
             <div className='menu-card'>
-                <img src={ImageOne} alt='' className='h-full rounded mb-20 shadow'/>
+                <img src={ImageOne} alt='' id='#product-one' className='h-full rounded mb-20 shadow'/>
                 <div className='center-content'>
                     <h2 className='text-2xl mb-2'>Egg Muffin</h2>
                     <p className='mb-2'>Crispy, delicious, and nutricious</p>
